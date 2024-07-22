@@ -10,7 +10,7 @@
 ---
 **The following is a screenshot of the resuting output**
 ---
-<img width="922" alt="Screenshot 2024-07-22 at 12 17 11 AM" src="https://github.com/user-attachments/assets/2262869c-5388-4fbf-b2aa-e1b028db96bd",width=1000px>
+<img width="922" alt="Screenshot 2024-07-22 at 12 17 11 AM" src="https://github.com/user-attachments/assets/2262869c-5388-4fbf-b2aa-e1b028db96bd">
 
 ---
 - Adding functionality to our script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
@@ -19,6 +19,6 @@
 ---
 **After the necessary adjustements, we got the following output which is a sample from one sheet**
 ---
-<img width="1070" alt="Screenshot 2024-07-21 at 5 58 30 PM" src="https://github.com/user-attachments/assets/2b727de3-1a42-44f1-a343-ab78568c5f43" ,width=1000px>
+<img width="1070" alt="Screenshot 2024-07-21 at 5 58 30 PM" src="https://github.com/user-attachments/assets/2b727de3-1a42-44f1-a343-ab78568c5f43">
 
 ---
